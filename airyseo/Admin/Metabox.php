@@ -51,7 +51,7 @@ class Metabox {
 		$nonce_field = wp_nonce_field( 'airyseo_create_nonce', 'airyseo_metabox_nonce', false );
 
 		echo airyseo_get_template(
-			'metabox',
+			'admin/metabox',
 			array(
 				'title'       => $title,
 				'description' => $description,

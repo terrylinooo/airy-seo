@@ -1,6 +1,6 @@
 <?php
 /**
- * The general meta tags, such as title and description.
+ * The Twitter Card module.
  *
  * @since 1.0.0
  */
