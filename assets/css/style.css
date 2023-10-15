@@ -1,0 +1,22 @@
+.airyseo-metabox__item {
+    width: 100%;
+    max-width: 500px;
+}
+
+.airyseo-metabox__item textarea {
+    resize: none;
+    width: 100%;
+    height: 100px;
+}
+
+.airyseo-metabox__item input {
+    width: 100%;
+}
+
+.airyseo-metabox__item-row {
+    padding: 0.25rem 0;
+}
+
+.airyseo-metabox__seo-status {
+    float: right;
+}
